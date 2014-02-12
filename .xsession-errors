@@ -1,0 +1,17 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-y8xUdU/socket
+SSH_AUTH_SOCK=/tmp/keyring-y8xUdU/socket.ssh
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+Failed to play sound: File or data not found
+
+(polkit-gnome-authentication-agent-1:2500): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2500): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+** Message: applet now removed from the notification area
+Initializing nautilus-gdu extension
+Initializing nautilus-open-terminal extension
+** Message: applet now embedded in the notification area
+Window manager warning: Columns = 0 rows = 0 in _NET_DESKTOP_LAYOUT makes no sense
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2800003 (Authentica)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+(gpk-update-icon:2495): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed

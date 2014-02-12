@@ -1,0 +1,41 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-LYPoib/socket
+SSH_AUTH_SOCK=/tmp/keyring-LYPoib/socket.ssh
+** Message: NumLock remembering disabled because hostname is set to "localhost"
+Failed to play sound: File or data not found
+
+(polkit-gnome-authentication-agent-1:2612): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2612): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+** Message: applet now removed from the notification area
+Initializing nautilus-gdu extension
+** Message: applet now embedded in the notification area
+Initializing nautilus-open-terminal extension
+
+** (gnome-power-manager:2602): WARNING **: IsActive failed: Method "IsActive" with signature "" on interface "org.freedesktop.ConsoleKit.Session" doesn't exist
+
+
+(polkit-gnome-authentication-agent-1:2612): polkit-gnome-1-WARNING **: Error enumerating temporary authorizations: Remote Exception invoking org.freedesktop.PolicyKit1.Authority.EnumerateTemporaryAuthorizations() on /org/freedesktop/PolicyKit1/Authority at name org.freedesktop.PolicyKit1: org.freedesktop.PolicyKit1.Error.Failed: Cannot determine session the caller is in
+
+** (gnome-power-manager:2602): WARNING **: IsActive failed: Method "IsActive" with signature "" on interface "org.freedesktop.ConsoleKit.Session" doesn't exist
+
+** Message: NM disappeared
+** Message: applet now removed from the notification area
+
+** (polkit-gnome-authentication-agent-1:2612): WARNING **: no sender
+
+** Message: Got disconnected from the system message bus; retrying to reconnect every 10 seconds
+** Message: <info>  disconnected by the system bus.
+
+
+** (nm-applet:2601): WARNING **: <WARN>  bus_init(): Could not get the system bus.  Make sure the message bus daemon is running!  Message: Failed to connect to socket /var/run/dbus/system_bus_socket: Connection refused
+
+
+(gnome-panel:2561): GVFS-RemoteVolumeMonitor-WARNING **: Owner :1.24 of volume monitor org.gtk.Private.GduVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+Initializing nautilus-gdu extension
+
+(nautilus:3457): GVFS-RemoteVolumeMonitor-WARNING **: invoking IsSupported() failed for remote volume monitor with dbus name org.gtk.Private.GduVolumeMonitor: org.freedesktop.DBus.Error.Spawn.ChildSignaled: Process /usr/libexec/gvfs-gdu-volume-monitor received signal 6
+Initializing nautilus-open-terminal extension
+Window manager warning: Fatal IO error 4 (Interrupted system call) on display ':0.0'.
+** Message: Caught signal 15, shutting down...
+gnome-session: Fatal IO error 4 (Interrupted system call) on X server :0.0.
+gnome-settings-daemon: Fatal IO error 4 (Interrupted system call) on X server :0.0.

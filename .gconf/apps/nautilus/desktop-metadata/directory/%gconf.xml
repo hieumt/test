@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="nautilus-icon-view-layout-timestamp" mtime="1392095465" type="string">
+		<stringvalue>1392095465</stringvalue>
+	</entry>
+	<entry name="nautilus-icon-view-keep-aligned" mtime="1392092102" type="string">
+		<stringvalue>true</stringvalue>
+	</entry>
+</gconf>
